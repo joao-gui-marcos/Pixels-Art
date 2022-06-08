@@ -14,7 +14,7 @@
     -   I implemented a color palette using`javascript`,`css`e`html`;
     -   the files`index.html`,`style.css`e`script.js`contains HTML, CSS and JavaScript code, respectively;
 
-:bulb:**See a sample below**
+:bulb:**See a sample below:**
 
 ![project sample](./sample.gif)
 
@@ -64,7 +64,7 @@
 
 -   The palette lists all the colors available for use, side by side;
 
--   The color palette is positioned below the title`Paleta de Cores`;
+-   A paleta de cores está posicionada abaixo do título `Paleta de Cores`;
 
 -   The color palette does not contain repeating colors.
 
@@ -164,7 +164,7 @@
 
 **what will be checked**
 
--   When loading the page, it should be possible to paint the pixels of the frame black;
+-   When loading the page it should be possible to paint the pixels of the frame black;
 
 -   After selecting another color from the color palette, you can paint the pixels in the frame with that color;
 
@@ -199,7 +199,7 @@
 -   Create an input and a button that allow defining a frame of pixels with a size between 5 and 50. When clicking on the button, a frame of**N**pixels wide and**N**pixels high, in which**N**is the number entered in the input. That is, if the value passed to the input is equal to 7, clicking the button will generate a frame of 49 pixels (7 pixels wide x 7 pixels high);
 
 
--   The input must have the`id`denominated`board-size`and the button must have the`id`denominated`generate-board`;
+-   O input deve ter o `id`denominated`board-size`and the button must have the`id`denominated`generate-board`;
 
 -   The input must only accept numbers greater than zero. This restriction**he must**be done using the element attributes`input`;
 
