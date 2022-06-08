@@ -13,7 +13,7 @@
     - Implementei uma paleta de cores usando `javascript`, `css` e `html`;
     - Os arquivos `index.html`, `style.css` e `script.js` contém o código HTML, CSS e JavaScript, respectivamente;
 
-:bulb: **Veja uma amostra a seguir**
+:bulb: **Veja uma amostra a seguir:**
 
   ![project sample](./sample.gif)
 
